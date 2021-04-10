@@ -17,3 +17,13 @@ body{
 .color{
 	color: rgb(35, 32, 218);
 }
+/*maqueta*/
+#contenedor{
+	width: 80%;
+	margin: 10%;
+	border-bottom-width: 50px;
+	border-top-width: 2px;
+}
+.ingre{
+	width: 10%;
+}
